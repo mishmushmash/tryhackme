@@ -1,0 +1,7 @@
+/archive (Status: 301)
+/Archive (Status: 301)
+/authors (Status: 200)
+/Blog (Status: 200)
+/blog (Status: 200)
+/categories (Status: 200)
+/install (Status: 302)

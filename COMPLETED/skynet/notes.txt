@@ -1,0 +1,19 @@
+A recent system malfunction has caused various passwords to be changed. All skynet employees are required to change their password after seeing this.
+-Miles Dyson
+
+
+
+[80][http-post-form] host: 10.10.156.37   login: milesdyson   password: cyborg007haloterminator
+
+
+
+
+We have changed your smb password after system malfunction.
+Password: )s{A&2Z=F^n_E.B`
+
+Add features to beta CMS /45kra24zxs28v3yd
+
+/administrator (Status: 301)
+
+
+
